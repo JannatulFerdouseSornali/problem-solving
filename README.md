@@ -70,3 +70,5 @@ Sample Input 1	Sample Output 1
 9
 2 3 4 5
 3
+
+I have added a python coding example and also the same code written in JS
