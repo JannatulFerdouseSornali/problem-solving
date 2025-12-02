@@ -1,4 +1,3 @@
-// Compact version for copy-paste into online judges
 const readline = require('readline');
 const rl = readline.createInterface({
     input: process.stdin,
